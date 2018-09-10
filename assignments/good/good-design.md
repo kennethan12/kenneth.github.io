@@ -16,6 +16,6 @@ I love this thing. I never read books, but I find myself playing with these shel
 
 No arrows to indicate where to rotate. No signs to tell us what actions to partake. Just simple geometry that allows you to grab that book about Mongolian warfare if the aisle between the shelves are too narrow.
 
-I don't have to stand there for minutes and think about what it does. I don't even have to play around with it to understand its purpose. I just look at it and know what it does. Its signifiers are concise and all signify the device's affordance: sliding shelves. I enjoy it, but even better, I understand it. Next time you run into me in the library and catch me playing around with the sliding shelves, you now know why. Although this article probably doesn't justify the fact that I'm super weird.
+I don't have to stand there for minutes and think about what it does. I don't even have to play around with it to understand its purpose. I just look at it and know what it does. Its signifiers are concise and all signify the device's affordance: sliding shelves. I enjoy it, but even better, I *understand* it. Next time you run into me in the library and catch me playing around with the sliding shelves, you now know why. Although this article probably doesn't justify the fact that I'm super weird.
 
 
