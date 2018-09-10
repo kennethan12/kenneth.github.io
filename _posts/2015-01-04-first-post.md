@@ -1,6 +1,6 @@
 ---
-layout: post
-title: First post!
+layout: page
+title: First page!
 image: /img/hello_world.jpeg
 ---
 
