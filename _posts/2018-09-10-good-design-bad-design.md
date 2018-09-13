@@ -4,7 +4,7 @@ title: Good Design, Bad Design
 subtitle: Assignment Due 9/10/18
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [assignment]
 ---
 
 **Good Design, Bad Design**
