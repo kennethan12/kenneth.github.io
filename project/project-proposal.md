@@ -15,9 +15,12 @@ Art is a popular topic of study. It is a useful medium in that it has more to of
 
 This is where ArtShare comes in -- ArtShare is (or will be) a forum dedicated to spreading art from one educator to another by categorizing the art by keywords and sending them through to the ArtShare database. The keywords can be anything, as they will be categorized by subject -- perhaps the artwork one is suggesting to the ArtShare community have particular paint strokes, apply bright color schemes, belong to a unique genre, and would be useful to examine the age of paint. Categorizing art like this not only is helpful to art teachers and art history professors, but also, for example, chemistry professors that want to find art that would help them explain the science of color paint. A user -- who would be a professor, teacher, or faculty member -- would be able to suggest an artwork and its associating keywords or search for an artwork by plugging in keywords into a search engine. That way, any faculty member will be able to search for the art they are looking for.
 
+![ArtShare](/img/artshare.png)
+
 
 
 
 
 Big image: https://www.gold.ac.uk/pg/ma-contemporary-art-theory/
 Small image: https://hyperallergic.com/180933/city-college-of-new-york-launches-graduate-art-museum-education-concentration/
+Logo: Brandmark.io
