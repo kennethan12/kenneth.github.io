@@ -21,6 +21,6 @@ This is where ArtShare comes in -- ArtShare is (or will be) a forum dedicated to
 
 
 
-Big image: https://www.gold.ac.uk/pg/ma-contemporary-art-theory/
-Small image: https://hyperallergic.com/180933/city-college-of-new-york-launches-graduate-art-museum-education-concentration/
+Big image: https://www.gold.ac.uk/pg/ma-contemporary-art-theory/ | 
+Small image: https://hyperallergic.com/180933/city-college-of-new-york-launches-graduate-art-museum-education-concentration/ | 
 Logo: Brandmark.io
