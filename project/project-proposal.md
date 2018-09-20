@@ -9,7 +9,7 @@ bigimg: /img/pp2.jpg
 
 Art is a popular topic of study. It is a useful medium in that it has more to offer and teach than just art. Therefore, faculty members, especially teachers and professors, rely on art to effectively spread knowledge about whatever they want to teach to students. An art teacher may want to provide an example artwork to her students that demonstrate specific styles that she wants them to apply to their work. A computer science professor may want to gather color scheme data from a particular painting that has a history of rusting colors, so that students can program an application that hypothesizes the painting's original colors. However, how can teachers and professors find the specific art that they are looking for when there are billions of artworks that exist in the world? How can the efficiently find the perfect artwork that best demonstrates what they want to teach without having to surf through the internet for hours?
 
-![Students observing art](/img/pp1.jpg)
+![Students observing art](/img/pp1.jpg){: .center-image }
 
 **THE SOLUTION**
 
