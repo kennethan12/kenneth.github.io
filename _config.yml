@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - Project Proposal: "project/project-proposal"
+    - HeArt: "https://londonmeanswild.github.io/museum-experience/blog/"
   Assignments:
     - Good Design: "assignments/good/good-design"
     - Bad Design: "assignments/bad/bad-design"
