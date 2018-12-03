@@ -50,7 +50,19 @@ and our last one?:
 
 !["Last paper prototype"](https://londonmeanswild.github.io/museum-experience/images/prototyping/final-overview.JPG)
 
-The answer: the number of screens decreased by 33%. We had nine screens in the beginning, and ended with six of them. 
+The answer: the number of screens decreased by 33%. We had nine screens in the beginning, and ended with six of them.
+
+Why did this happen? The most obvious answer is that we, the designers, overthought about what the users preferred (relating to my first point above) and how we should accommodate the user so that one can have the most comfortable time possible when using our product. 
+
+Our home page initially had an "All feedback" button, a "Questions and Suggestions" button, and a "Comments" section. Our thought process behind this was that this would allow the users to clearly distinguish the different types of feedback. After our usability and heuristic evaluations, we decided that we could just put everything into the "All feedback" section and have "Questions," "Suggestions," and "Comments" buttons for the user to filter the different types of feedback. This is reflected in our digital mockup, as we have just one button for "View Visitor Responses" in the home page, and buttons for different types of responses on the responses page:
+
+!["Digital mockup: home page"](https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/home-screen.jpg.png) !["Digital mockup: responses page"](https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/exhibits-all-responses.jpg.png) !["Digital mockup: questions page"](https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/questions-all-responses.jpg.png)
+
+The last page shows only questions because the user pressed on the "Questions" filtering button.
+
+
+
+
 
 3. Keeping it simple but functional
    - Our initial prototype had way more screens and functions to "accommodate" the user
