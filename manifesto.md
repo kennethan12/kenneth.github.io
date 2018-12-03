@@ -96,7 +96,7 @@ How can we have our designs be accessible for everyone? It's a little hard to ac
 - *Understandable*: Can users derive the meaning of content or how it is used? And finally,
 - *Robust*: How backward compatible is your code base? Are you using up-to-date technologies that are not supported by older browsers?
 
-This methodology allows *people* to be at the center of process. Us designers have to accommodate to the needs of our target audience -- and this includes those with disabilities. The [UK Government](https://www.google.com/url?q=https%3A%2F%2Fglow.williams.edu%2Ffiles%2F133121172%2Fdownload%3Fdownload_frd%3D1&sa=D&sntz=1&usg=AFQjCNETPD8zlkhx97yLnOXTp0N6UcqlCA) has designed several Do’s and Don’ts on designing for accessibility that is a great reference design tool.
+This methodology allows *people* to be at the center of process. Us designers have to accommodate to the needs of our target audience -- and this includes those with disabilities. The [UK Government](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) has designed several Do’s and Don’ts on designing for accessibility that is a great reference design tool.
 
 How did *heART* focus on inclusive design? We chose very simple colors: colors of red, pink, and white, so that color blind users can differentiate the shades of the colors and understand what aspects of the design represent what:
 
@@ -116,15 +116,14 @@ Thanks for bearing with me. On to the last and the most important point...
 
 ### *Everything* has an ethical consequence. ###
 
+Accessibility is not just another aspect that designers need to consider --  *it is the right thing to do.* And this is why ethics is possibly one of the most significant aspects of HCI. If designers are not careful enough, and do not consider certain perspectives while creating and testing their products, there is a moral consequence that affects users. Any aspect of design can have a significant impact on people's lives and well-being. And there are plenty of examples in the technological world that demonstrates these impacts.
+
+There are two Code of Ethics that are extremely important to keep in mind when designing anything: the [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics), created by the Association for Computing Machinery (ACM), and the [Signal Code](kennethan12.github.io/ethics-sol-2018-TheSignalCode-excerpt.pdf), provided by the Harvard Humanitarian Initiative. Both codes are based on the understanding that the public good is always the primary consideration.
 
 
-6. Everything has an ethical consequence
-   - How much information that we gather are considered private? How much information do we use in general?
-   - Our design doesn't cause any harm -- but it's important to keep it in mind
-   - ACM Code of Ethics & The Signal Code from Harvard are very useful to constnatly have in mind
-   - Personal points of ethics:
-        - Citation for using intellectual property of others
-        - Privacy and Protection
-        - A user's access of their own data is a right
-        - Do not harm others
+- Personal points of ethics:
+    - Citation for using intellectual property of others
+    - Privacy and Protection
+    - A user's access of their own data is a right
+    - Do not harm others
 7. Conclusion
