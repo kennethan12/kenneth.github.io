@@ -61,6 +61,8 @@ The last page shows only questions because the user pressed on the "Questions" f
 
 Another example that show how we complicated functions is how we first had a "feedback" section under each artwork page. This is because we thought it would be nice for the users to have the feedback section as a reference when looking at the data visualizations displyed in the artwork page. However, after some feedback from the usability testings, we realized it became best to just keep the feedbacks and data visualizations of an artwork separate.
 
+<img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/OLD-artwork-analytics.png" alt="First artwork page" width="250"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/final-artwork-analytics.JPG" alt="Edited artwork page" width="300">
+
 
 
 3. Keeping it simple but functional
