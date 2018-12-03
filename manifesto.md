@@ -4,7 +4,7 @@ title: Design Manifesto
 subtitle: A Reflection
 ---
 
-## Overview ##
+# Overview #
 
 I never thought that one day I would ever consider myself as a "designer." Whenever I thought about "design" I thought about aesthetic features of an object, such as colors and material on clothing, or the shiny and sleek architecture of an iPhone. But ever since I started this course Human-Computer Interaction (HCI) everything about my perspective of design changed. I started to see design everywhere, because design isn't just about aesthetics. Design has principles, processes, techniques, and its own philosophy. There is a clear line between good design and bad design. And design becomes more than its functions and abilities -- we start to see the effect that it has, and the consequences that arise when certain aspects are overlooked.
 
@@ -18,7 +18,7 @@ During this semester I had a semester-long project with my classmates Landon and
 
 Let's dive right in.
 
-# We are not the user. #
+### We are not the user. ###
 
 If someone asked me, "What is one thing you've learned from the HCI course?" my answer would be this: we are not the user. This statement, in a designer's perspective, is about how the designer should not assume what a user prefers or understands. A designer for doors, for instance, cannot just put a handle on it and assume a user would know whether to push or pull. Every single choice that a designer makes for a product should be clear and concise.
 
@@ -40,7 +40,7 @@ There were other instances when we realized that we are not the user. Our [heuri
 
 Everything from sorting and buttons, which we assumed the users would understand, to functions and displayed analytics, which we assumed users would want to see, were criticized as unclear or unnecessary. Most of the things we assumed about the user were wrong! And that's the takeaway. **Designers think differently about a product they are designing than users that actually use the product.** Users don't have a mind like the designers because they have not thought about generating the idea of the product or have been part of the process of making it -- their only jobs are to use it. I found it personally useful to have a test user be involved in the design process, a UX method called "Participatory Design": one of our testers, an art history professor, suggested key elements to our design that clarified a lot of things, such as what and how data should be displayed and visualized. 
 
-# Keep it simple but functional. #
+### Keep it simple but functional. ###
 
 3. Keeping it simple but functional
    - Our initial prototype had way more screens and functions to "accommodate" the user
