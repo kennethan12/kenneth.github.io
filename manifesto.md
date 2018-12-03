@@ -56,7 +56,7 @@ Why did this happen? The most obvious answer is that we, the designers, overthou
 
 Our home page initially had an "All feedback" button, a "Questions and Suggestions" button, and a "Comments" section. Our thought process behind this was that this would allow the users to clearly distinguish the different types of feedback. After our usability and heuristic evaluations, we decided that we could just put everything into the "All feedback" section and have "Questions," "Suggestions," and "Comments" buttons for the user to filter the different types of feedback. This is reflected in our digital mockup, as we have just one button for "View Visitor Responses" in the home page, and buttons for different types of responses on the responses page:
 
-!["Digital mockup: home page"](https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/home-screen.jpg.png) !["Digital mockup: responses page"](https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/exhibits-all-responses.jpg.png) !["Digital mockup: questions page"](https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/questions-all-responses.jpg.png)
+!["Digital mockup: home page"](https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/home-screen.jpg.png =300x) !["Digital mockup: responses page"](https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/exhibits-all-responses.jpg.png =300x) !["Digital mockup: questions page"](https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/questions-all-responses.jpg.png =300x)
 
 The last page shows only questions because the user pressed on the "Questions" filtering button.
 
