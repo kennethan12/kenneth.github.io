@@ -6,7 +6,18 @@ subtitle: A Reflection
 
 ## Outline ##
 
-1. Intro
+I never thought that one day I would ever consider myself as a "designer." Whenever I thought about "design" I thought about aesthetic features of an object, such as colors and material on clothing, or the shiny and sleek architecture of an iPhone. But ever since I started this course Human-Computer Interaction (HCI) everything about my perspective of design changed. I started to see design everywhere, because design isn't just about aesthetics. Design has principles, processes, techniques, and its own philosophy. There is a clear line between good design and bad design. And design becomes more than its functions and abilities -- we start to see the effect that it has, and the consequences that arise when certain aspects are overlooked.
+
+During this semester I had a semester-long project with my classmates Landon and Chris, and created a prototype of something we call [**heART**](https://londonmeanswild.github.io/museum-experience/): a mobile platform that allows curators to connect with visitors and easily understand the vast amounts of data being collected ("*heART makes data useful*"). To best understand what we learned through readings and lectures, we applied the skills and methods of UX design to our own projects. This experience truly opened my eyes to the world of UX design, and why it is starting to become more of a necessity in any scientific and technological aspects. There are five main points I want to share that makes me believe that the world must run on good design:
+
+- Designers should never assume what the users might want and apply these assumptions to their designs,
+- Designers should not have to rely on the complexity of a design to accommodate users,
+- Designers should always take into open arms critical feedback,
+- Designers should consider all types of users, including those that have disabilities, and
+- Designers should always keep in mind the Code of Ethics.
+
+Let's dive right in.
+
 2. We are not the user
    - We often designed based on what we thought curators wanted
    - Our usability testing and heuristic evaluations told us the complete opposite
@@ -31,7 +42,7 @@ subtitle: A Reflection
    - How much information that we gather are considered private? How much information do we use in general?
    - Our design doesn't cause any harm -- but it's important to keep it in mind
    - ACM Code of Ethics & The Signal Code from Harvard are very useful to constnatly have in mind
-   - Five personal points of ethics:
+   - Personal points of ethics:
         - Citation for using intellectual property of others
         - Privacy and Protection
         - A user's access of their own data is a right
