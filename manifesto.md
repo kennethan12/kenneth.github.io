@@ -44,11 +44,15 @@ Everything from sorting and buttons, which we assumed the users would understand
 
 What is the difference between our first official paper prototype:
 
-!["First paper prototype"](https://londonmeanswild.github.io/museum-experience/images/prototyping/pp-all-flow.jpg)
+<div text-align="center">
+   !["First paper prototype"](https://londonmeanswild.github.io/museum-experience/images/prototyping/pp-all-flow.jpg)
+</div>
 
 and our last one?:
 
-!["Last paper prototype"](https://londonmeanswild.github.io/museum-experience/images/prototyping/final-overview.JPG)
+<div text-align="center">
+   !["Last paper prototype"](https://londonmeanswild.github.io/museum-experience/images/prototyping/final-overview.JPG)
+</div>
 
 The answer: the number of screens decreased by 33%. We had nine screens in the beginning, and ended with six of them.
 
@@ -57,11 +61,15 @@ Why did this happen? The most obvious answer is that we, the designers, overthou
 Our home page initially had an "All feedback" button, a "Questions and Suggestions" button, and a "Comments" section. Our thought process behind this was that this would allow the users to clearly distinguish the different types of feedback. After our usability and heuristic evaluations, we decided that we could just put everything into the "All feedback" section and have "Questions," "Suggestions," and "Comments" buttons for the user to filter the different types of feedback. This is reflected in our digital mockup, as we have just one button for "View Visitor Responses" in the home page, and buttons for different types of responses on the responses page. 
 The last page shows only questions because the user pressed on the "Questions" filtering button:
 
-<img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/home-screen.jpg.png" alt="Digital mockup: home page" width="250"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/exhibits-all-responses.jpg.png" alt="Digital mockup: responses page" width="250"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/questions-all-responses.jpg.png" alt="Digital mockup: questions page" width="250">
+<div text-align="center">
+   <img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/home-screen.jpg.png" alt="Digital mockup: home page" width="250"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/exhibits-all-responses.jpg.png" alt="Digital mockup: responses page" width="250"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/questions-all-responses.jpg.png" alt="Digital mockup: questions page" width="250">
+</div>
 
 Another example that show how we complicated functions is how we first had a "feedback" section under each artwork page. This is because we thought it would be nice for the users to have the feedback section as a reference when looking at the data visualizations displyed in the artwork page. However, after some feedback from the usability testings, we realized it became best to just keep the feedbacks and data visualizations of an artwork separate (the first picture is our original prototype; the second is our edited version):
 
-<img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/OLD-artwork-analytics.png" alt="First artwork page" width="250"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/final-artwork-analytics.JPG" alt="Edited artwork page" width="500">
+<div text-align="center">
+   <img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/OLD-artwork-analytics.png" alt="First artwork page" width="250"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/final-artwork-analytics.JPG" alt="Edited artwork page" width="500">
+</div>
 
 Overall, we went through a lot of modifications to have our product be **simple enough to use, but still be able to perform the same tasks we based our original designs on**. We cut everything short. We got rid of a lot of screens. We made the layout simple. We displayed concise, specific information. This resulted in a clean, efficient, and tight-knit product with simple, intuitive functions that provided a lot of information. Similar to the first point, designers shouldn't assume that the users need more help than they actually need -- users understand intuitive actions, and if we provide the necessary steps, both sides will be happy.
 
