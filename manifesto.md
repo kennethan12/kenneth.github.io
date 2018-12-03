@@ -36,8 +36,7 @@ This made us realize that the data our product collects should not be, for insta
 
 There were other instances when we realized that we are not the user. Our [heuristic evaluations and usability testings](https://londonmeanswild.github.io/museum-experience/2018/11/08/usability-review/) with our first paper prototype gave us a lot of feedback on our design. This table is an overview of all the criticisms we received:
 
-!["Criticisms of our paper prototypes received from heuristic evaluations and usability testings, 1"](https://londonmeanswild.github.io/museum-experience/images/prototyping/usability-feedback-table.png)
-!["Criticisms of our paper prototypes received from heuristic evaluations and usability testings, 2"](https://londonmeanswild.github.io/museum-experience/images/prototyping/usability-feedback-table.png)
+!["Criticisms of our paper prototypes received from heuristic evaluations and usability testings"](https://londonmeanswild.github.io/museum-experience/images/prototyping/usability-feedback-table.png)
 
 Everything from sorting and buttons, which we assumed the users would understand, to functions and displayed analytics, which we assumed users would want to see, were criticized as unclear or unnecessary. Most of the things we assumed about the user were wrong! And that's the takeaway. **Designers think differently about a product they are designing than users that actually use the product.** Users don't have a mind like the designers because they have not thought about generating the idea of the product or have been part of the process of making it -- their only jobs are to use it. I found it personally useful to have a test user be involved in the design process, a UX method called "Participatory Design": one of our testers, an art history professor, suggested key elements to our design that clarified a lot of things, such as what and how data should be displayed and visualized. 
 
