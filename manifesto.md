@@ -120,10 +120,24 @@ Accessibility is not just another aspect that designers need to consider --  *it
 
 There are two Code of Ethics that are extremely important to keep in mind when designing anything: the [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics), created by the Association for Computing Machinery (ACM), and the [Signal Code](kennethan12.github.io/ethics-sol-2018-TheSignalCode-excerpt.pdf), provided by the Harvard Humanitarian Initiative. Both codes are based on the understanding that the public good is always the primary consideration.
 
+Following these two codes, our group realized some of our own ethical guidelines during the course of this project. Although we focused more on the visualization of data rather than the collection of it, we still feel that there were still important ethical factors that we had to take into consideration.
 
-- Personal points of ethics:
-    - Citation for using intellectual property of others
-    - Privacy and Protection
-    - A user's access of their own data is a right
-    - Do not harm others
-7. Conclusion
+- *Privacy and protection of personal data.* Although *heART* is an application dedicated to data visualization, the way the app functions is through user interaction. This means that the data that is visualized relies on the responses that audiences give about art. We make sure that the responses that the users give about an artwork stay either anonymous or rely on a first-name basis. For example, when users give in responses for the curators to read, the responses are identified only by their first names (in the [digital mockup](https://londonmeanswild.github.io/museum-experience/2018/11/12/digital-mock-up/), we can only see "Kyle" and not "Kyle Lastname"):
+
+<p align="center"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/respond-ignore-question.jpg.png" alt="The question is from 'Kyle' -- that's the most specific it's going to get." width="250"></p>
+
+  Also, users would have to log in with a username and password -- although this is not explicit in our final design, we made sure that securing personal and private data was one of our considerations taken long ago. [Contextual inquiries](https://londonmeanswild.github.io/museum-experience/groundwork/research/2018/10/04/CI-writeups/) and [usability tests](https://londonmeanswild.github.io/museum-experience/2018/11/08/usability-review/) were also anonymous as we stated, as they are referred to as User Testing 1, 2, or 3.
+
+- *Giving credit for the intellectual property of others.* In our digital mockup, the only original image is our logo; every other image has been pulled from either WCMA's website or have been taken from the actual WCMA. Therefore, to ensure that every image of an artwork is associated with a WCMA exhibit or the creator of that artwork, we have put their information in every artwork page (such as title, artist, description, date, types of material, size, etc.). Take a look at this example, where the info about the photo is under the image:
+
+<p align="center"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/overall-object-analytics.png" alt="Info about artwork under the photo." width="250"></p>
+
+  It is important to include relevant citations and sources for people's content, even in an application dedicated to art in a museum! We must always respect people's work (and also abide by the law, as a side note).
+
+- *The right to oversee the use of their data.* Although this is also not explicited stated in our application, this is an ethical right that we have taken into consideration while creating our design. It applies to *heART* because a lot of the artwork responses that users give will be processed into data relevant to the art. For example, since "Kyle" asked a question about an artwork, when a curator takes a look at the artwork's analytics, which includes emotional responses and types of comments, Kyle's comment that illustrates his confusion will be in the data. Therefore, every time a user responds to an artwork, there will be a note saying that their comment will be in the artwork's database and a form of the comment will be reflected in that data. Users would also receive a notification whenever a curator responds to their questions or suggestions.
+
+**Designers should always have their own ethical guidelines, along with the Code of Ethics and The Signal Code, constantly reminded while working on their products.** They should always be cognizant of how much their design will impact their users: the consequences of bad design may affect someone's health and well-being.
+
+## Conclusion ##
+
+There you have it -- a summary of all the important things I've learned through this HCI course. The takeaways that I've perceived apply to any sort of design processes in the world, way beyond the mobile application that Landon, Chris, and I built. A good design doesn't just appear out of nowhere: there must be constant testing, multiple revisions from feedbacks, continuous awareness of the aftermaths of certain design aspects, and efforts to make a design simple and accessible for anyone to use. A good design, therefore, isn't just proper functions or pretty appearances. It is inclusion of every type of user, and a design that is avoids any sort of harm onto the public.
