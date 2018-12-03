@@ -142,4 +142,4 @@ Following these two codes, our group realized some of our own ethical guidelines
 
 There you have it -- a summary of all the important things I've learned through this HCI course. The takeaways that I've perceived apply to any sort of design processes in the world, way beyond the mobile application that Landon, Chris, and I built. A good design doesn't just appear out of nowhere: there must be constant testing, multiple revisions from feedbacks, continuous awareness of the aftermaths of certain design aspects, and efforts to make a design simple and accessible for anyone to use. A good design, therefore, isn't just proper functions or pretty appearances. It is inclusion of every type of user, and a design that is avoids any sort of harm onto the public.
 
-<p align="center"><img src="https://londonmeanswild.github.io/museum-experience/" alt="heART logo" width="250"></p>
+<p align="center"><img src="https://londonmeanswild.github.io/museum-experience/images/logo-draft.png" alt="heART logo" width="250"></p>
