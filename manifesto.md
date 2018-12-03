@@ -89,6 +89,28 @@ This is why designers should not be afraid of feedback, and accept them with ope
 
 ### Make it accessible -- for all types of users. ###
 
+How can we have our designs be accessible for everyone? It's a little hard to accept that fact that, especially for complicated applications like *heART*, we as designers will have a hard time trying to accommodate *everyone*. Think about people with disabilities such as mobility issues, dyslexia, color blindness, low vision, deafness, etc. How will they be able to use our products if our products' designs don't "include" them? This is where the POUR methodology comes in handy, as described by Andrew Smyk in his article ["Design With Accessibility in Mind: The POUR Methodology"](https://theblog.adobe.com/design-with-accessibility-in-mind-the-pour-methodology/):
+
+- *Perceivable*: How will content be interpreted or processed by the user? How is the content being presented and how can it be delivered to the user?
+- *Operable*: What type of input methods are available for the user to use and control? What type of affordances or cues are you giving the user?
+- *Understandable*: Can users derive the meaning of content or how it is used? And finally,
+- *Robust*: How backward compatible is your code base? Are you using up-to-date technologies that are not supported by older browsers?
+
+This methodology allows *people* to be at the center of process. Us designers have to accommodate to the needs of our target audience -- and this includes those with disabilities. The [UK Government](https://www.google.com/url?q=https%3A%2F%2Fglow.williams.edu%2Ffiles%2F133121172%2Fdownload%3Fdownload_frd%3D1&sa=D&sntz=1&usg=AFQjCNETPD8zlkhx97yLnOXTp0N6UcqlCA) has designed several Do’s and Don’ts on designing for accessibility that is a great reference design tool.
+
+How did *heART* focus on inclusive design? We chose very simple colors: colors of red, pink, and white, so that color blind users can differentiate the shades of the colors and understand what aspects of the design represent what:
+
+<p align="center"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/log-in.jpg.png" alt="log-in page has simple color scheme" width="250"></p>
+
+Buttons are at reachable positions: our back and home buttons are located in the top corners of the screen, and our "reply" buttons in our responses page are all placed in the side so that it is easy to reach for those with mobility issues:
+
+<p align="center"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/exhibits-all-responses.jpg.png" alt="buttons are accessible for those with mobility issues" width="250"></p>
+
+And lastly, all of our artworks, exhibits, buttons, and information are properly and concisely labeled for users with screen readers:
+
+<p align="center"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/home-screen.jpg.png" alt="everything is labeled for those with screen readers" width="250"></p>
+
+
 
 5. Make it accessible -- for all types of users
    - We chose very simple colors -- pink and white color scheme, so nothing is too complicated for colorblind users
