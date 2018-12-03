@@ -57,11 +57,11 @@ Why did this happen? The most obvious answer is that we, the designers, overthou
 Our home page initially had an "All feedback" button, a "Questions and Suggestions" button, and a "Comments" section. Our thought process behind this was that this would allow the users to clearly distinguish the different types of feedback. After our usability and heuristic evaluations, we decided that we could just put everything into the "All feedback" section and have "Questions," "Suggestions," and "Comments" buttons for the user to filter the different types of feedback. This is reflected in our digital mockup, as we have just one button for "View Visitor Responses" in the home page, and buttons for different types of responses on the responses page. 
 The last page shows only questions because the user pressed on the "Questions" filtering button:
 
-<img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/home-screen.jpg.png" alt="Digital mockup: home page" width="250"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/exhibits-all-responses.jpg.png" alt="Digital mockup: responses page" width="250"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/questions-all-responses.jpg.png" alt="Digital mockup: questions page" width="250">
+<p align="center"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/home-screen.jpg.png" alt="Digital mockup: home page" width="250"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/exhibits-all-responses.jpg.png" alt="Digital mockup: responses page" width="250"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/questions-all-responses.jpg.png" alt="Digital mockup: questions page" width="250"></p>
 
 Another example that show how we complicated functions is how we first had a "feedback" section under each artwork page. This is because we thought it would be nice for the users to have the feedback section as a reference when looking at the data visualizations displyed in the artwork page. However, after some feedback from the usability testings, we realized it became best to just keep the feedbacks and data visualizations of an artwork separate (the first picture is our original prototype; the second is our edited version):
 
-<img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/OLD-artwork-analytics.png" alt="First artwork page" width="250"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/final-artwork-analytics.JPG" alt="Edited artwork page" width="500">
+<p align="center"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/OLD-artwork-analytics.png" alt="First artwork page" width="250"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/final-artwork-analytics.JPG" alt="Edited artwork page" width="500"></p>
 
 Overall, we went through a lot of modifications to have our product be **simple enough to use, but still be able to perform the same tasks we based our original designs on**. We cut everything short. We got rid of a lot of screens. We made the layout simple. We displayed concise, specific information. This resulted in a clean, efficient, and tight-knit product with simple, intuitive functions that provided a lot of information. Similar to the first point, designers shouldn't assume that the users need more help than they actually need -- users understand intuitive actions, and if we provide the necessary steps, both sides will be happy.
 
@@ -110,13 +110,14 @@ And lastly, all of our artworks, exhibits, buttons, and information are properly
 
 <p align="center"><img src="https://londonmeanswild.github.io/museum-experience/images/prototyping/digital_mockup/home-screen.jpg.png" alt="everything is labeled for those with screen readers" width="250"></p>
 
+It's extremely important that designers try to accommodate for not just regular users, but those with any sort of disabilities. We don't want users to feel discouraged when using our product -- **we want them to feel included**. A good designer always should have this in mind when designing something, for users with disabilities have every right to use a product in the most comfortable and accessible ways.
+
+Thanks for bearing with me. On to the last and the most important point...
+
+### *Everything* has an ethical consequence. ###
 
 
-5. Make it accessible -- for all types of users
-   - We chose very simple colors -- pink and white color scheme, so nothing is too complicated for colorblind users
-   - Buttons on reachable positions on the screen so people with mobility problems don't have too much trouble
-   - All artworks/exhibits/buttons are labeled for screen readers
-   - It's important to accommodate for all sorts of people so that there aren't a lot of problems for a certain type of user
+
 6. Everything has an ethical consequence
    - How much information that we gather are considered private? How much information do we use in general?
    - Our design doesn't cause any harm -- but it's important to keep it in mind
