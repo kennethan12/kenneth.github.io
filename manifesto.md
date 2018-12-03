@@ -42,6 +42,16 @@ Everything from sorting and buttons, which we assumed the users would understand
 
 ### Keep it simple but functional. ###
 
+What is the difference between our first official paper prototype:
+
+!["First paper prototype"](https://londonmeanswild.github.io/museum-experience/images/prototyping/pp-all-flow.jpg)
+
+and our last one?:
+
+!["Last paper prototype"](https://londonmeanswild.github.io/museum-experience/images/prototyping/final-overview.JPG)
+
+The answer: the number of screens decreased by 33%. We had nine screens in the beginning, and ended with six of them. 
+
 3. Keeping it simple but functional
    - Our initial prototype had way more screens and functions to "accommodate" the user
    - We realized that test users would never reach a given goal
