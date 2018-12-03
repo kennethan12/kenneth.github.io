@@ -75,18 +75,21 @@ There was an instance in our designing process where I realized that there is no
 
 !["Storyboard 1"](https://londonmeanswild.github.io/museum-experience/images/ideation/hci2-1.png)
 
-The reason is not only because I was feeling artistically ambitious, but also because I didn't want to have the burden of fixing things after receiving feedback. But I underestimated the fact that it was possible I was already a lot of things wrong when I was designing these storyboards. Not only that, I also wasted a *lot* of time on something that could have been done a lot faster. The feedback I received from our professor Iris Howley proves this case:
+The reason is not only because I was feeling artistically ambitious, but also because I didn't want to have the burden of fixing things after receiving feedback. Essentially, I wanted to get everything done at once instead of taking steps. But I underestimated the fact that it was possible I was already a lot of things wrong when I was designing these storyboards. Not only that, I also wasted a *lot* of time on something that could have been done a lot faster. The feedback I received from our professor Iris Howley proves this case:
 
 !["Storyboard feedback"](/img/storyboard-rubric.png)
 
+Funny how even though I made an effort to not receive a lot of negative feedback, I still got negative feedback anyway!
+
+A lot of the feedbacks that we received and we worked on are already mentioned in the previous points -- and all of these feedbacks led to an effective design. Even suggestive feedback can be extremely helpful. For instance, after our [task review](https://londonmeanswild.github.io/museum-experience/teamwork/ideas/2018/10/12/task-review/), Iris suggested something that would shift our focus from collecting visitor data to displaying useful data for museum curators:
+
+> "I would consider dropping this task in favor of doing a deeper dive into the previous task and different kinds of questions/tasks that could be supported through presenting data. You can pretend you already have this data (it's essentially a form submission, which is also why it is less interesting), and figure out what kind of information curators would look for."
+
+This is why designers should not be afraid of feedback, and accept them with open arms. **Any sort of feedback can help designers understand what works and what doesn't work in their designs, and therefore, inevitably result in even better designs.** Designers must understand that nothing can ever be perfect for the first few tries -- and even after multiple tries. Mistakes always come up, and it is always better to address the issue rather than ignore them.
+
+### Make it accessible -- for all types of users. ###
 
 
-
-4. Don't be afraid of feedback
-   - Feedback is one of the most important things in designing
-   - Personally, I made sure that I got everything done at once instead of taking steps to ensure that I don't get much negative feedback
-   - But that led to wasting time and also receiving negative feedback anyways
-   - But negative feedback helps us fix our problems, make our design better
 5. Make it accessible -- for all types of users
    - We chose very simple colors -- pink and white color scheme, so nothing is too complicated for colorblind users
    - Buttons on reachable positions on the screen so people with mobility problems don't have too much trouble
